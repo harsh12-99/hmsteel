@@ -820,7 +820,7 @@ body,*,input,textarea
 .template-layout-33x66>.template-layout-column-right
 {
 	display:block;
-	visibility:hidden;
+	/* visibility:hidden; */
 	margin-bottom:60px;
 }
 
