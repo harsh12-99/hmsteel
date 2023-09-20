@@ -227,7 +227,7 @@ img
 
 p
 {
-	padding:10px 0px 10px 0px;
+	padding:5px 0px 5px 0px;
 }
 
 a
@@ -1108,7 +1108,7 @@ h4
 	font-size:18px;
 	line-height:30px;
 	letter-spacing:2px;
-	margin-bottom:30px;
+	margin-bottom:5px;
 }
 
 h5,
@@ -1116,7 +1116,7 @@ h5,
 {
 	font-size:17px;
 	letter-spacing:2px;
-	margin-bottom:30px;
+	margin-bottom:5px;
 }
 
 h6,
@@ -1125,7 +1125,7 @@ h6,
 	font-size:14px;
 	line-height:27px;
 	letter-spacing:2px;
-	margin-bottom:30px;
+	margin-bottom:5px;
 }
 
 h1 a,h1 a:hover,
@@ -1876,7 +1876,7 @@ form
 
 		.template-content .template-section
 		{
-			padding:110px 0px 120px 0px;
+			padding:50px 0px 60px 0px;
 		}
 		
 		.template-content .template-section-padding-reset
